@@ -29,4 +29,4 @@ This Currency Converter project is a simple web application created using vanill
 [**Flags API**](https://flagsapi.com/): Fetches flags of different countries based on their country codes.
 
 ## Demo
-For a live demo of the Currency Converter, visit [Demo Link](https://worldwide-currency-converter.netlify.app/).
+Check out the live demo [here](https://worldwide-currency-converter.netlify.app/).
