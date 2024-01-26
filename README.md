@@ -4,9 +4,7 @@
 This Currency Converter project is a simple web application created using vanilla HTML, CSS, and JavaScript. It allows users to convert between different currencies using real-time exchange rates provided by the Free Currency Rates API. Additionally, country flags are displayed alongside the currency codes for a visually intuitive experience.
 
 ## Screenshot
-<img width="397" alt="currency-converter" src="https://github.com/BanashreeAribenchi/Currency-converter/assets/132400958/32709efa-2557-4b24-a68a-2597e06a53a2">
-
-
+<img width="250" height="250" alt="currency-converter" src="https://github.com/BanashreeAribenchi/Currency-converter/assets/132400958/32709efa-2557-4b24-a68a-2597e06a53a2">
 
 ## Features
 **User-Friendly Interface**: The interface is designed to be simple and intuitive, ensuring a seamless user experience.
